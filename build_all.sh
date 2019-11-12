@@ -1,4 +1,5 @@
 #!/bin/bash
+./dependancies.sh
 echo "Building rpi kernel"
 cd rpi && ./script
 
